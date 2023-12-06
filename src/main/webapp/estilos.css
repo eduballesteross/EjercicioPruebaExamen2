@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+.tabla{
+	width: 80%;
+	height: 80%;
+	border-spacing: 0;
+	
+}
+th,td,table {
+	border: solid 1px;
+	
+}
+
+ tabla-container {
+            width: 80%; 
+        }
+ th {
+	 background-color: grey;
+	 width: 10%;
+	 
+ }
+ 
+ .azul{
+	 background-color: aqua;
+ }
+ 
+ button{
+	 background-color: orange;
+	 padding: 10px;
+	 display: inline-block;
+    margin: 8px 20%;
+	border-radius: 5px;
+	cursor: pointer;
+    width: 150px;
+ }
+ 
